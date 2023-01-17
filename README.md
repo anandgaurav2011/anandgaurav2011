@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anand 
-- 👀 I’m interested in Artificial Intelligence, Machine Learning & Financial Market.
-- 🌱 I’m currently learning Deep Learning & Computer Vision.
+- 👀 I’m interested in Data Analyst, Machine Learning and Big Data.
+- 🌱 I’m currently learning Big Data, Hadoop HDFS, Map Reduce.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me anandgaurav2011@gmail.com
 
